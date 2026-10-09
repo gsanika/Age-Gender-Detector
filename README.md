@@ -140,7 +140,3 @@ age-and-gender/
 ## Credits
 
 This project uses pretrained model assets from the dlib models ecosystem and is distributed under the MIT license. The bundled model notices are included in the package for attribution.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
