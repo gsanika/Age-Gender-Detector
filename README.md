@@ -134,9 +134,4 @@ age-and-gender/
 │   └── age_and_gender/
 ├── example/
 ├── tests/
-└── LICENSE
 ```
-
-## Credits
-
-This project uses pretrained model assets from the dlib models ecosystem and is distributed under the MIT license. The bundled model notices are included in the package for attribution.
